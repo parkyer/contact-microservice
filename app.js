@@ -79,7 +79,7 @@ app.use('/inicio', (req, res) =>{
         }
     })
 })
-var mensajeSalida = '{ "mensaje": "Mensaje Recibido"}'
+var mensajeSalida = '{ "mensaje": "Mensaje Recibido" }'
 /**
  * @swagger
  * /contacto:
